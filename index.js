@@ -6,9 +6,11 @@ const autoCompleteConfig = {
       ${movie.Title} (${movie.Year})
     `;
   },
+
   inputValue(movie) {
     return movie.Title;
   },
+
   async fetchData(searchTerm) {
     const response = await axios.get('http://www.omdbapi.com/', {
       params: {
