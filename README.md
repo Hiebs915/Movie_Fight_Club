@@ -1,6 +1,6 @@
 # Movie Comparison App
 
-This project was put together to learn more about dynamically building HTML using function responses and making API calls to omdbapi.com.  It was built because I enjoy watching movies and looking up their stats while them.
+This project was put together to learn more about dynamically building HTML using function responses and making API calls to omdbapi.com.  It was built because I enjoy watching movies and enjoy looking up their stats while watching them.
 
 After entering two movies the app will automatically compare the IMDB stats of the two movies and highlight a "winner".
 
