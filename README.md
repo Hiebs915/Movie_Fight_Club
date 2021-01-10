@@ -4,6 +4,10 @@ This project was put together to learn more about dynamically building HTML usin
 
 After entering two movies the app will automatically compare the IMDB stats of the two movies and highlight a "winner".
 
+## Example
+When you load up the page you will have two serach fields.  The searches pull data from the omdbapi.  Once two of your favorite movies are selected the app will automatically highlight the stats between the two movies and the "winner".  Give it a try!
+![Imgur](https://i.imgur.com/Z1TpezH.jpg)
+
 ## Questions?
 Send me a message on GitHub (Matthew-Hiebing) or E-mail me at: Matthew.Hiebing@gmail.com
 
