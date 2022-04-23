@@ -7,6 +7,8 @@ After entering two movies the app will automatically compare the IMDB stats of t
 
 This project runs in the browser, you do not need to create any servers or host any files.  Simply clone the project to your desktop and drag the index.html file into the browser.
 
+If you want to view the app hosted on Heroku, follow [this](https://movie-fight-club.herokuapp.com/) link.
+
 ## Example
 When you load up the page you will have two search fields.  The two searches pull data from the omdb api.  Once two of your favorite movies are selected the app will automatically highlight the stats between the two movies and identify your winner.  Give it a try!
 ![Imgur](https://i.imgur.com/V4AMMPf.jpg)
